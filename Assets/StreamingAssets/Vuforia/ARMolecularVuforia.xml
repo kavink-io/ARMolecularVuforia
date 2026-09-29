@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="h2o" size="1.000000 0.784000" />
+    <ImageTarget name="co2" size="1.000000 0.650000" />
+    <ImageTarget name="nh3" size="1.000000 0.694000" />
+    <ImageTarget name="ch4" size="1.000000 1.006667" />
+  </Tracking>
+</QCARConfig>
